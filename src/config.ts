@@ -19,6 +19,7 @@ export const SIDEBAR = [
   { text: "Article", header: true },
   { text: "Introduction", link: "/core/introduction" },
   { text: "Post", link: "/core/Post" },
+  { text: "Articles", link: "/core/article" },
   { text: "Typography", link: "/core/typography" },
   { text: "Shadows", link: "/core/shadows" },
 
