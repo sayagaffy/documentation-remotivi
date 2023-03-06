@@ -116,4 +116,18 @@ Artikel memiliki beberapa Field yang perlu di isi, Beberapa di antaranya adalah:
 
   <img src="https://i.im.ge/2023/03/06/7PAAVW.image.png">
 
+  <li><strong>10. Information </strong> Information adalah ... yang ditampilkan. juga memiliki 2 form input yang harus di isi, jika salah satu tidak di input maka tidak akan tampil di salah satu website (indonesia/inggris)  </li>
+
+  <img src="https://i.im.ge/2023/03/06/7PAWSJ.image.png">
+
+  <li><strong>11. PDF Upload </strong> PDF upload digunakan untuk mengupload pdf artikel. juga memiliki 2 form upload, jika salah satu tidak di input maka tidak akan tampil di salah satu website (indonesia/inggris)  </li>
+
+  <img src="https://i.im.ge/2023/03/06/7PApMK.image.png">
+
+  <li><strong>12. publish checklist </strong> dengan menceklis publish maka postingan akan langsung terpublish ke halaman page.</li>
+
+  <img src="https://i.im.ge/2023/03/06/7PAGPM.image.png">
+  
+  
+  
   
