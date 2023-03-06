@@ -3,6 +3,18 @@ title: Post Documentation
 description: penjelasan fitur post
 layout: ../../layouts/MainLayout.astro
 ---
+# Fitur Post (Posting Content)
+
+fitur ini memiliki 6 tipe yang digunakan untuk membuat, edit, dan menghapus berbagai postingan yang diterbikan oleh remotivi yaitu:
+
+
+- [Fitur Post (Posting Content)](#fitur-post-posting-content)
+  - [Add new Articles](#add-new-articles)
+  - [Add new Research](#add-new-research)
+  - [Create new Event](#create-new-event)
+  - [Create new Projects](#create-new-projects)
+  - [Add Video](#add-video)
+  - [Create new Bangku belakang](#create-new-bangku-belakang)
 
 ## Add new Articles
 

@@ -20,6 +20,7 @@ export const SIDEBAR = [
   { text: "Introduction", link: "/core/introduction" },
   { text: "Post", link: "/core/Post" },
   { text: "Articles", link: "/core/article" },
+  { text: "Content Editor", link: "/core/editor-content" },
   { text: "Typography", link: "/core/typography" },
   { text: "Shadows", link: "/core/shadows" },
 
