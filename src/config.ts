@@ -16,20 +16,16 @@ export const OPEN_GRAPH = {
 };
 
 export const SIDEBAR = [
-  { text: "Article", header: true },
+  { text: "Hello Remotivi!", header: true },
   { text: "Introduction", link: "/core/introduction" },
+
+  { text: "Fitur Post", header: true },
   { text: "Post", link: "/core/Post" },
   { text: "Articles", link: "/core/article" },
   { text: "Content Editor", link: "/core/editor-content" },
-  { text: "Typography", link: "/core/typography" },
-  { text: "Shadows", link: "/core/shadows" },
+  { text: "Research", link: "/core/research" },
+  { text: "Event", link: "/core/event" },
+  
 
-  { text: "Components", header: true },
-  { text: "Buttons", link: "/components/buttons" },
-  { text: "Input", link: "/components/input" },
-  { text: "Status pills", link: "/components/status-pill" },
-  { text: "Table", link: "/components/table" },
-
-  { text: "Patterns", header: true },
-  { text: "Introduction", link: "/patterns/introduction" },
+  
 ];

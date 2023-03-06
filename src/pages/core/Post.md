@@ -7,7 +7,6 @@ layout: ../../layouts/MainLayout.astro
 
 fitur ini memiliki 6 tipe yang digunakan untuk membuat, edit, dan menghapus berbagai postingan yang diterbikan oleh remotivi yaitu:
 
-
 - [Fitur Post (Posting Content)](#fitur-post-posting-content)
   - [Add new Articles](#add-new-articles)
   - [Add new Research](#add-new-research)

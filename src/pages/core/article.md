@@ -108,7 +108,7 @@ Artikel memiliki beberapa Field yang perlu di isi, Beberapa di antaranya adalah:
 
   <img src="https://i.im.ge/2023/03/06/7PAo7x.image.png">
 
-  <li><strong>8. Description </strong> Description adalah Lead yang ditampilkan. juga memiliki 2 form input yang harus di isi, jika salah satu tidak di input maka tidak akan tampil di salah satu website (indonesia/inggris)  </li>
+  <li><strong>8. Description </strong> Description adalah Lead yang ditampilkan. juga memiliki 2 form input yang harus di isi, jika salah satu tidak di input maka tidak akan tampil di salah satu website (indonesia/inggris) field ini juga digunakan untuk SEO </li>
 
   <img src="https://i.im.ge/2023/03/06/7PAu2y.image.png">
 
@@ -128,7 +128,6 @@ Artikel memiliki beberapa Field yang perlu di isi, Beberapa di antaranya adalah:
 
   <img src="https://i.im.ge/2023/03/06/7PAGPM.image.png">
   
-
 
   
   
