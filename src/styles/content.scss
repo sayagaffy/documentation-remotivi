@@ -8,8 +8,8 @@
     margin-top: 1.77rem;
   }
   h1 {
-    font-size: 22pt;
-    font-weight: 400;
+    font-size: 32pt;
+    font-weight: 900;
   }
   h2 {
     font-size: 17pt;
@@ -38,7 +38,15 @@
     font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco,
       Consolas, "Liberation Mono", "Courier New", monospace;
   }
-
+  hr {
+    
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
   .component-preview {
     padding: 4rem;
     display: flex;

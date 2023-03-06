@@ -8,7 +8,7 @@ layout: ../../layouts/MainLayout.astro
 
 ## Introduction
 
-Website ini diperuntukan untuk penggunaan **CMS**
+Website ini diperuntukan untuk penggunaan **CMS**,
 segala kekurangan dokumentasi akan terus di update berdasarkan versi nya.
 versi saat ini adalah 1.0.0
 

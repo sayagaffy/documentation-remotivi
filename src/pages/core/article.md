@@ -70,3 +70,50 @@ artikel yang sudah unpublish pun dapat langsung di publish dengan button (plane 
   <img src="https://i.im.ge/2023/03/06/7PPU60.image.png">
   
 </div>
+
+# Posting Artikel
+<div class="component-preview">
+  <img src="https://i.im.ge/2023/03/06/7Ptju4.image.png">
+  
+</div>
+Artikel memiliki beberapa Field yang perlu di isi, Beberapa di antaranya adalah: 
+<hr/>
+  <li><strong>1. Title:</strong> title memiliki 2 form input, bahasa inggris dan indonesia, anda harus mengisi kedua nya, karena website memiliki 2 bahasa, jika salah satu tidak di isi maka tidak akan tampil di salah satu website (inggris atau indonesia) </li>
+
+  <img src="https://i.im.ge/2023/03/06/7PyrWC.image.png">
+  
+ 
+  
+  </div>
+  <li><strong>2. Cover Image:</strong> Cover image adalah image yang akan dipakai untuk headline, dan list card artikel </li>
+  <img src="https://i.im.ge/2023/03/06/7PyFoq.image.png">
+  
+  <li><strong>3. Tag sistem:</strong> pilih 3 tag sistem yang telah disediakan (Media & Demokrasi, Media dan Keberagaman, Krisis Komunikasi Iklim), kami juga memberikan pilihan (untagged) jika belum dapat dipastikan masuk ke tag sistem yang di perlukan </li>
+  
+  <img src="https://i.im.ge/2023/03/06/7PtG48.image.png">
+
+  <li><strong>4. Rubrik </strong> Pilih Rubrik yang telah disediakan (Esai, Liputan, Konsep & Isu, dan Meja Redaksi), kami juga memberikan pilihan (uncategorized) jika belum dapat dipastikan masuk ke rubrik yang di perlukan </li>
+
+  <img src="https://i.im.ge/2023/03/06/7PyCb9.image.png">
+
+  <li><strong>5. Author </strong> isi dan cari nama author yang dituju, list akan keluar berdasarkan input yang anda masukan, anda juga dapat menambahkan author di menu member. </li>
+
+  <img src="https://i.im.ge/2023/03/06/7PyfGP.image.png">
+
+<li><strong>6. Editor </strong> isi dan cari nama editor yang dituju, list akan keluar berdasarkan input yang anda masukan, anda juga dapat menambahkan editor di menu member. </li>
+
+  <img src="https://i.im.ge/2023/03/06/7Pyppm.image.png">
+
+  <li><strong>7. Hashtag </strong> isi dan entri hashtag yang diinginkan dengan menekan tombol "enter" pada keyboard</li>
+
+  <img src="https://i.im.ge/2023/03/06/7PAo7x.image.png">
+
+  <li><strong>8. Description </strong> Description adalah Lead yang ditampilkan. juga memiliki 2 form input yang harus di isi, jika salah satu tidak di input maka tidak akan tampil di salah satu website (indonesia/inggris)  </li>
+
+  <img src="https://i.im.ge/2023/03/06/7PAu2y.image.png">
+
+  <li><strong>9. Content </strong> content adalah isi artikel yang ditampilkan. juga memiliki 2 form input yang harus di isi, jika salah satu tidak di input maka tidak akan tampil di salah satu website (indonesia/inggris)  </li>
+
+  <img src="https://i.im.ge/2023/03/06/7PAAVW.image.png">
+
+  
