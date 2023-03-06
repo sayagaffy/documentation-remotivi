@@ -1,10 +1,10 @@
 export const SITE = {
-  title: "Astro Design System",
-  description: "Astro theme to build your design system fast.",
+  title: "Documentation CMS Remotivi",
+  description: "Moscous x Remotivi build website project",
   defaultLanguage: "en_US",
-  twitter: "@jordienr",
-  github: "jordienr",
-  linkedin: "linkedinUsername",
+  twitter: "@sayagaffy",
+  github: "sayagaffy",
+  linkedin: "sayagaffy",
 };
 
 export const OPEN_GRAPH = {
@@ -16,9 +16,9 @@ export const OPEN_GRAPH = {
 };
 
 export const SIDEBAR = [
-  { text: "Core", header: true },
+  { text: "Article", header: true },
   { text: "Introduction", link: "/core/introduction" },
-  { text: "Colors", link: "/core/colors" },
+  { text: "Post", link: "/core/Post" },
   { text: "Typography", link: "/core/typography" },
   { text: "Shadows", link: "/core/shadows" },
 
