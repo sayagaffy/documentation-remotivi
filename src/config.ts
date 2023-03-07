@@ -2,9 +2,9 @@ export const SITE = {
   title: "Documentation CMS Remotivi",
   description: "Moscous x Remotivi build website project",
   defaultLanguage: "en_US",
-  twitter: "@sayagaffy",
+  twitter: "@remotivi",
   github: "sayagaffy",
-  linkedin: "sayagaffy",
+  linkedin: "remotivi",
 };
 
 export const OPEN_GRAPH = {
