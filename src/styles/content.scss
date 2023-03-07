@@ -47,19 +47,24 @@
     margin-top: 10px;
     margin-bottom: 10px;
   }
+  .image-component {
+    background: #2C3333;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
   .component-preview {
-    padding: 4rem;
+    padding: 1rem;
     display: flex;
-    gap: 1rem;
+    gap: 20px;
+    background: #2C3333;
     justify-content: center;
     align-items: center;
-    background-image: url("/grid_dot.svg");
-    background-repeat: repeat;
-    background-size: 1.5rem;
     border-radius: 0.33rem;
-    border: 1px solid theme("colors.slate.200");
     margin: 0.5rem;
     resize: both;
+    
   }
 
   .astro-code {
