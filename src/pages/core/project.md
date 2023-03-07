@@ -4,21 +4,42 @@ description: penjelasan fitur Project
 layout: ../../layouts/MainLayout.astro
 ---
 
-# Penjelasan Fitur Project
+# Penjelasan Fitur Proyek/Project
 
-Fitur Project memiliki banyak kesamaan dengan Fitur **Artikel** maka dari itu kami mendokumentasikan/merangkum perbedaan nya saja.
+Fitur Proyek/Project memiliki banyak kesamaan dengan penggunaan Fitur **Artikel** maka dari itu kami mendokumentasikan/merangkum perbedaan nya saja.
 
-### Fitur Upload PDF EN | ID
+### Menambahkan Posting/Artikel/Tulisan Ke Dalam Proyek
 
-- Field File Berfungsi untuk mengupload PDF EN | ID
- 
-<img src="https://i.im.ge/2023/03/06/7PW37W.image.png">
+- Masuk Ke dalam project yang telah dibuat.
+ <hr>
+<img src="https://i.im.ge/2023/03/07/7ALctc.image.png">
+ <hr>
 
-- Field Author Berfungsi untuk memasukan nama Peneliti.
+- Scroll ke bawah dan temukan button Add Post di pojok kanan bawah content.
+<hr>
+<img src="https://i.im.ge/2023/03/07/7ALz4z.image.png">
+<hr>
 
-<img src="https://i.im.ge/2023/03/06/7PWYC0.image.png">
+- Cari konten yang anda butuhkan di pop-up menu yang tampil 
+   
+ <hr> 
+<img src="https://i.im.ge/2023/03/07/7AUimG.image.png">
+  <hr>
 
-- Hanya ada Field Description yang berfungsi menjadi lead dan digunakan juga untuk SEO, dan juga tidak lupa field EN | ID. 
-  
-<img src="https://i.im.ge/2023/03/06/7PAu2y.image.png">
-  
+- Setelah anda memilih, confirm dengan button add 
+   
+ <hr> 
+<img src="https://i.im.ge/2023/03/07/7AUwGS.image.png">
+  <hr>
+
+- Selamat ! Anda telah berhasil menambahkan post ke dalam proyek.
+   
+ <hr> 
+<img src="https://i.im.ge/2023/03/07/7AUzl1.image.png">
+  <hr>
+
+- anda dapat terus menambahkan post ke dalam proyek. dan juga menghapus konten dari proyek, (konten akan tetap tersedia hanya dihapus dari dalam proyek) dengan klik tombol "remove"
+
+<hr> 
+<img src="https://i.im.ge/2023/03/07/7Ahd6K.image.png">
+  <hr>

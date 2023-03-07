@@ -6,19 +6,14 @@ layout: ../../layouts/MainLayout.astro
 
 # Penjelasan Fitur Video
 
-Fitur Video memiliki banyak kesamaan dengan Fitur **Artikel** maka dari itu kami mendokumentasikan/merangkum perbedaan nya saja.
+Fitur Video memiliki banyak kesamaan dengan Penggunaan Fitur **Artikel** maka dari itu kami mendokumentasikan/merangkum perbedaan nya saja.
 
-### Fitur Upload PDF EN | ID
+### Fitur Rubrik dan Fitur Youtube URL
 
-- Field File Berfungsi untuk mengupload PDF EN | ID
+- Ketika menambahkan Video (Add Video) terdapat dua field Rubrik dan Fitur Youtube URL, kami mendapati kategori di link [Youtube Remotivi](https://www.youtube.com/@remotivi) diantaranya kategori, **Yang Tidak Media Katakan** dan kategori **Ayam Pop** anda dapat menambahkan juga rubrik lainnya di fitur **Rubrik** nanti. 
  
-<img src="https://i.im.ge/2023/03/06/7PW37W.image.png">
+<div class="component-preview">
+    <img src="https://i.im.ge/2023/03/07/7A0bca.image.png">
+    <img src="https://i.im.ge/2023/03/07/7A0Wpz.image.png">
+</div>
 
-- Field Author Berfungsi untuk memasukan nama Peneliti.
-
-<img src="https://i.im.ge/2023/03/06/7PWYC0.image.png">
-
-- Hanya ada Field Description yang berfungsi menjadi lead dan digunakan juga untuk SEO, dan juga tidak lupa field EN | ID. 
-  
-<img src="https://i.im.ge/2023/03/06/7PAu2y.image.png">
-  
