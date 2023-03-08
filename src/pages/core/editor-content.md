@@ -69,7 +69,7 @@ Content editor adalah editor HTML WYSIWYG yang sesuai dengan berbagai kasus peng
 
 <img class="image-component" src="https://i.im.ge/2023/03/08/7g7GAh.image.png">
 
-- pilih edit untuk melihat content. ambil sebagian appendix (mulai dari appendix title)
+- pilih edit untuk melihat content. ambil seluruh bagian appendix (mulai dari appendix title)
 
 <img class="image-component" src="https://i.im.ge/2023/03/08/7gD2Af.image.png">
 
