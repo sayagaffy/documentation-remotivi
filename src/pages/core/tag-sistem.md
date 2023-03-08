@@ -6,19 +6,10 @@ layout: ../../layouts/MainLayout.astro
 
 # Penjelasan Fitur Tag sistem
 
-Fitur Tag sistem memiliki banyak kesamaan dengan Fitur **Artikel** maka dari itu kami mendokumentasikan/merangkum perbedaan nya saja.
+- Fitur Tag sistem saat ini ada 3, anda dapat merubah **"Nama"**, **"Deskripsi"**, dan **"banner"** yang tampil di halaman depan.
 
-### Fitur Upload PDF EN | ID
+<img class="image-component" src="https://i.im.ge/2023/03/08/7g02CL.image.png">
 
-- Field File Berfungsi untuk mengupload PDF EN | ID
- 
-<img src="https://i.im.ge/2023/03/06/7PW37W.image.png">
+- button **edit** untuk merubah tag sistem ada di kanan masing-masing table tag sistem 
 
-- Field Author Berfungsi untuk memasukan nama Peneliti.
-
-<img src="https://i.im.ge/2023/03/06/7PWYC0.image.png">
-
-- Hanya ada Field Description yang berfungsi menjadi lead dan digunakan juga untuk SEO, dan juga tidak lupa field EN | ID. 
-  
-<img src="https://i.im.ge/2023/03/06/7PAu2y.image.png">
-  
+<img class="image-component" src="https://i.im.ge/2023/03/08/7gwpl1.image.png">
