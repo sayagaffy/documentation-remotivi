@@ -60,3 +60,19 @@ Content editor adalah editor HTML WYSIWYG yang sesuai dengan berbagai kasus peng
 <hr>
 <img class="image-component" src="https://i.im.ge/2023/03/06/7PREyF.image.png">
 <hr>
+
+
+## Cara Membuat Appendix
+
+- kami telah menyediakan template untuk admin bisa copy paste di link [Appendix](https://admin-staging.remotivi.or.id/post/article/detail/824) ini.
+
+
+<img class="image-component" src="https://i.im.ge/2023/03/08/7g7GAh.image.png">
+
+- pilih edit untuk melihat content. ambil sebagian appendix (mulai dari appendix title)
+
+<img class="image-component" src="https://i.im.ge/2023/03/08/7gD2Af.image.png">
+
+- paste di kolom content anda. lalu double klik di title nanti akan muncul pop-op menu untuk merubah title.
+
+<img class="image-component" src="https://i.im.ge/2023/03/08/7gDDlT.image.png">
