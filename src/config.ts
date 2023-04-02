@@ -44,17 +44,12 @@ export const SIDEBAR = [
   { text: "Admin", link: "/core/admin" },
 
   { text: "About Us", header: true },
-  { text: "Profile", link: "/core/Profile" },
+  { text: "Profile", link: "/core/profile" },
   { text: "Career", link: "/core/Career" },
   { text: "Partners", link: "/core/Partners" },
 
   { text: "Annual Report", header: true },
   { text: "Annual Report", link: "/core/annual-report" },
 
-  { text: "Complaint", header: true },
-  { text: "Complaint", link: "/core/complaint" },
-
-  { text: "dev-scripts", header: true },
-  { text: "dev-scripts", link: "/core/dev-scripts" },
   
 ];
