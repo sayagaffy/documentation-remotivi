@@ -6,7 +6,7 @@ layout: ../../layouts/MainLayout.astro
 
 # Penjelasan Fitur Rubrik
 
-- Sama Halnya dengan tag sistem Fitur Rubrik saat ini ada 4 (selain bangku belakang), anda dapat merubah **"Nama"**, **"Deskripsi"**, dan **"banner"** yang tampil di halaman depan.
+- Fitur Rubrik adalah tempat untuk mengganti nama, deskripsi, image banner dari rubrik yang ada saat ini, yaitu **Meja Redaksi, Konsep & Isu, Liputan, Esai**
 
 <img class="image-component" src="https://i.im.ge/2023/03/08/7gk1LM.image.png">
 
