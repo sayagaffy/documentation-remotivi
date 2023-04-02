@@ -4,21 +4,9 @@ description: penjelasan fitur Project - Banner
 layout: ../../layouts/MainLayout.astro
 ---
 
-# Penjelasan Fitur Project - Banner
+# Penjelasan Fitur Project (banner)
 
-Fitur Project - Banner memiliki banyak kesamaan dengan Fitur **Artikel** maka dari itu kami mendokumentasikan/merangkum perbedaan nya saja.
+- Fitur **Page (Banner)** ini adalah image yg muncul
 
-### Fitur Upload PDF EN | ID
+<img class="image-component" src="https://i.im.ge/2023/03/08/7gkNFL.image.png">
 
-- Field File Berfungsi untuk mengupload PDF EN | ID
- 
-<img src="https://i.im.ge/2023/03/06/7PW37W.image.png">
-
-- Field Author Berfungsi untuk memasukan nama Peneliti.
-
-<img src="https://i.im.ge/2023/03/06/7PWYC0.image.png">
-
-- Hanya ada Field Description yang berfungsi menjadi lead dan digunakan juga untuk SEO, dan juga tidak lupa field EN | ID. 
-  
-<img src="https://i.im.ge/2023/03/06/7PAu2y.image.png">
-  

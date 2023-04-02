@@ -6,19 +6,22 @@ layout: ../../layouts/MainLayout.astro
 
 # Penjelasan Fitur Rubrik
 
-Fitur Rubrik memiliki banyak kesamaan dengan Fitur **Artikel** maka dari itu kami mendokumentasikan/merangkum perbedaan nya saja.
+- Sama Halnya dengan tag sistem Fitur Rubrik saat ini ada 4 (selain bangku belakang), anda dapat merubah **"Nama"**, **"Deskripsi"**, dan **"banner"** yang tampil di halaman depan.
 
-### Fitur Upload PDF EN | ID
+<img class="image-component" src="https://i.im.ge/2023/03/08/7gk1LM.image.png">
 
-- Field File Berfungsi untuk mengupload PDF EN | ID
- 
-<img src="https://i.im.ge/2023/03/06/7PW37W.image.png">
+- button **edit** untuk merubah ada di kanan masing-masing table **rubrik**
 
-- Field Author Berfungsi untuk memasukan nama Peneliti.
+<img class="image-component" src="https://i.im.ge/2023/03/08/7gwpl1.image.png">
 
-<img src="https://i.im.ge/2023/03/06/7PWYC0.image.png">
+----------------------------------------------------------------
 
-- Hanya ada Field Description yang berfungsi menjadi lead dan digunakan juga untuk SEO, dan juga tidak lupa field EN | ID. 
-  
-<img src="https://i.im.ge/2023/03/06/7PAu2y.image.png">
-  
+- kami juga telah menyiapkan table (rubrik video) jika nanti mempunyai kebutuhan page video terpisah. (untuk saat ini belum terpasang di halaman)
+
+## Edit rubrik
+
+- Rubah nama di field **"Name"** harus di isi keduanya (inggris dan indonesia), **Rubrik for** untuk memilih tipe Rubrik/video (saat ini video belum ada), field **Banner** untuk mengganti gambar Rubrik halaman depan, **Description** untuk mengganti Lead rubrik. harus di isi keduanya (inggris dan indonesia).
+
+<img class="image-component" src="https://i.im.ge/2023/03/08/7gkiLm.image.png">
+<img class="image-component" src="https://i.im.ge/2023/03/08/7gk03r.image.png">
+
